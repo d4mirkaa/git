@@ -30,12 +30,22 @@ alert('hello');
 
 // горячие клавиши ctrl+/
 
-alert(1);
-console.log(2);
+//console.log(3);
+//console.log(2);
 
 var myVar = 10;
-alert('agePerson:', agePerson);
+var money = 11;
+var income =12;
+var addExpenses = 13;
+
+
+var myVar = 10;
+console.log('agePerson:', agePerson);
+alert('hello');
 var camelCase =10;
-var agePerson = 20
+var agePerson = 20;
+let  deposti = 13
+let mission = 15
+let period = 16
 
 
